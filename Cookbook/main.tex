@@ -1,0 +1,40 @@
+
+\documentclass[14pt,openany,a4paper]{memoir}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}%
+\usepackage[margin=1in]{geometry}
+
+\author{Ozan Semin}
+\title{A High Energy Cookbook}
+
+\includeonly{
+    Part1/Chapter1/Section1,
+%    Part1/Chapter1/Section2
+%       chap2,
+%       chap3
+    }
+
+\begin{document}
+
+\maketitle
+\frontmatter
+
+\tableofcontents
+
+\chapter{Preface}
+In this work I aim to provide an introduction to the topics usually ignored by theoretical physicists, since most of the research work without those topics. The initial motivation behind this work was to create a summarized overview of things I have studied (and still studying) during my PhD, which looked necessary for mathematically rigorous foundations of high energy physics. Therefore, I deeply apologize for the mistakes, errors and inconsistencies you may encounter while reading this quasi-book. 
+\\
+Since my initial goal was to learn while writing this book, I will be heavily referencing well-known books and articles, and basically summarizing them in a (hopefully) easier-to-understand way. Also, I hope you have fun while reading this work, and deem useful for your own research! 
+
+\mainmatter
+
+\part{Solitons and Instantons}
+
+%CHAPTER 1
+
+\include{Part1/Chapter1/Section1.tex}
+\include{Part1/Chapter1/Section2.tex}
+
+
+\end{document}
