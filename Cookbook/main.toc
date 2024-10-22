@@ -1,5 +1,4 @@
-\contentsline {chapter}{Contents}{i}{}%
-\contentsline {chapter}{Preface}{ii}{}%
-\contentsline {part}{\partnumberline {I}Solitons and Instantons}{1}{}%
-\contentsline {chapter}{\chapternumberline {1}What are Solitons?}{2}{}%
-\contentsline {chapter}{\chapternumberline {2}What are Solitonss?}{3}{}%
+\contentsline {chapter}{Contents}{i}%
+\contentsline {chapter}{Preface}{ii}%
+\contentsline {part}{\partnumberline {I}Solitons and Instantons}{1}%
+\contentsline {part}{\partnumberline {II}Effective Field Theory}{2}%
