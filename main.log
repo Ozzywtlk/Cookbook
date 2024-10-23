@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.10.22)  23 OCT 2024 08:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.10.22)  23 OCT 2024 09:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -411,7 +411,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count307
 \l__pdf_internal_box=\box52
-) (/workspaces/Cookbook/main.aux (/workspaces/Cookbook/Part1/Chapter1/Section1.tex.aux) (/workspaces/Cookbook/Part1/Chapter1/Section2.tex.aux) (/workspaces/Cookbook/Part2/Chapter1/Section1.tex.aux))
+) (/workspaces/Cookbook/main.aux (/workspaces/Cookbook/Part1/Chapter1/Section1.aux) (/workspaces/Cookbook/Part1/Chapter1/Section2.aux) (/workspaces/Cookbook/Part2/Chapter1/Section1.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -473,41 +473,45 @@ LaTeX Font Info:    ... okay on input line 18.
 
 
 ]
-\openout2 = `Part1/Chapter1/Section1.tex.aux'.
+\openout2 = `Part1/Chapter1/Section1.aux'.
 
-
-No file Part1/Chapter1/Section1.tex.tex.
-\openout2 = `Part1/Chapter1/Section2.tex.aux'.
-
-No file Part1/Chapter1/Section2.tex.tex.
-[2
-
-
-
+ (/workspaces/Cookbook/Part1/Chapter1/Section1.tex) [2
 
 
 ]
-\openout2 = `Part2/Chapter1/Section1.tex.aux'.
+\openout2 = `Part1/Chapter1/Section2.aux'.
+
+ (/workspaces/Cookbook/Part1/Chapter1/Section2.tex) [3
 
 
-No file Part2/Chapter1/Section1.tex.tex.
+
+] [4
+
+
+]
+\openout2 = `Part2/Chapter1/Section1.aux'.
+
+ (/workspaces/Cookbook/Part2/Chapter1/Section1.tex) [5
+
+
+]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-(/workspaces/Cookbook/main.aux (/workspaces/Cookbook/Part1/Chapter1/Section1.tex.aux) (/workspaces/Cookbook/Part1/Chapter1/Section2.tex.aux) (/workspaces/Cookbook/Part2/Chapter1/Section1.tex.aux)) ) 
+ (/workspaces/Cookbook/main.aux (/workspaces/Cookbook/Part1/Chapter1/Section1.aux) (/workspaces/Cookbook/Part1/Chapter1/Section2.aux) (/workspaces/Cookbook/Part2/Chapter1/Section1.aux)) ) 
 Here is how much of TeX's memory you used:
- 4926 strings out of 483183
- 68050 string characters out of 5966291
- 337026 words of memory out of 5000000
- 19947 multiletter control sequences out of 15000+600000
+ 4938 strings out of 483183
+ 68432 string characters out of 5966291
+ 339023 words of memory out of 5000000
+ 19953 multiletter control sequences out of 15000+600000
  537497 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,10n,34p,537b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,10n,34p,718b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /workspaces/Cookbook/main.pdf (6 pages, 40380 bytes).
+Output written on /workspaces/Cookbook/main.pdf (9 pages, 49336 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
